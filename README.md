@@ -1,7 +1,7 @@
 # GAME_PROGRAM-EX--7
 # Landscape Creation and Foliage in Unreal Engine
 # Aim
-To create a landscape in Unreal Engine, apply a custom landscape material, and add foliage for realistic environment generation.
+To create a landscape in Unreal Engine, apply a custom landscape material, and add foliage for realistic environment generation. 
 
 # Procedure
 
