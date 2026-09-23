@@ -8,7 +8,7 @@ To create a landscape in Unreal Engine, apply a custom landscape material, and a
 1.Create a New Landscape:
 
   * Open your Unreal Engine project.
-   * Go to the Modes Panel and select Landscape
+   * Go to the Modes Panel and select Landscape 
    * Set the desired section size, number of components, and overall resolution.
     * Click Create to generate the landscape.
 
